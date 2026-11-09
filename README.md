@@ -34,8 +34,8 @@ Tools and Technologies:
 - PING Command
 - Network Performance Testing
 
-Network Performance Analysis:
-The project investigates the following networking concepts:
+Network Performance Analysis:      
+                                                                                                                            The project investigates the following networking concepts:
 - Latency vs. Bandwidth
 - Wi-Fi performance based on distance and interference
 - DHCP vs. Static IP Addressing
