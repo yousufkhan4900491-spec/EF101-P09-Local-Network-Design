@@ -58,10 +58,15 @@ The required practical investigations include:
 Project Information:
 
 Project ID: EF101-P09
+
 Course: EF101
+
 Department: Electrical Engineering
+
 Group: 09
+
 Group Size: 3 Students
+
 Submission: Week 13 – 9 November 2026
 
 Conclusion:
